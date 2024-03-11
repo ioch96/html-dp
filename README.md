@@ -37,6 +37,8 @@ The following HTML tags structure the website and form the framework for all oth
 |`<header>`|`<header>` defines the header area of a page or section.|
 |`<footer>`|`<footer>` defines the footer area of a page or section.|
 
+![Basic Website Layout](images/basic_website_layout.png)
+
 ### The basic structure of a website with HTML tags
 
 The basic structure of a website can look like this, for example:
