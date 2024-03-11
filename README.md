@@ -37,7 +37,11 @@ The following HTML tags structure the website and form the framework for all oth
 |`<header>`|`<header>` defines the header area of a page or section.|
 |`<footer>`|`<footer>` defines the footer area of a page or section.|
 
-![Basic Website Layout](images/basic_website_layout.png)
+### HTML Layout Elements
+
+HTML has several semantic elements that define the different parts of a web page:
+
+<img src="images/basic_website_layout.png" width="50%" height="50%">
 
 ### The basic structure of a website with HTML tags
 
