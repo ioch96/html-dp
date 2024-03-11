@@ -26,16 +26,16 @@ The following HTML tags structure the website and form the framework for all oth
 
 |HTML tag|Description|
 |:-:|:-|
-|<!DOCTYPE>|This HTML tag determines the type of the document.|
-|<html>|This HTML tag defines a document as an HTML document.|
-|<head>|The <head> area stores metadata about the document.|
-|<title>|This HTML command stores the title of the document, which is also displayed in the title bar of the browser.|
-|<body>|<body> is the main area and includes the content that is displayed in the browser.|
-|<nav>|This is the navigation section of a website.|
-|<section>|<section> allows elements to be grouped together.|
-|<article>|<article> is the content area of a website.|
-|<header>|<header> defines the header area of a page or section.|
-|<footer>|<footer> defines the footer area of a page or section.|
+|`<!DOCTYPE>`|This HTML tag determines the type of the document.|
+|`<html>`|This HTML tag defines a document as an HTML document.|
+|`<head>`|The `<head>` area stores metadata about the document.|
+|`<title>`|This HTML command stores the title of the document, which is also displayed in the title bar of the browser.|
+|`<body>`|`<body>` is the main area and includes the content that is displayed in the browser.|
+|`<nav>`|This is the navigation section of a website.|
+|`<section>`|`<section>` allows elements to be grouped together.|
+|`<article>`|`<article>` is the content area of a website.|
+|`<header>`|`<header>` defines the header area of a page or section.|
+|`<footer>`|`<footer>` defines the footer area of a page or section.|
 
 ### The basic structure of a website with HTML tags
 
