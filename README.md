@@ -2,7 +2,7 @@
 
 |Tag|Description|Example|
 |:-:|:-|:-:|
-|`<!--...-->`|Defines a comment|
+|`<!--...-->`|Defines a comment|[here](src/example_05.html)|
 |`<!DOCTYPE>`|Defines the document type|[here](src/example_01.html)|
 |`<html>`|Defines the root of an HTML document|[here](src/example_01.html)|
 |`<head>`|Contains metadata/information for the document|[here](src/example_01.html)|
