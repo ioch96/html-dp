@@ -8,6 +8,8 @@ If you want to learn HTML or write your own HTML code, HTML tags are probably yo
 
 HTML tags are represented by a start and an end tag. The HTML commands are placed in angle brackets and contain the desired information, with the end tag being marked by a slash. The combination of start tag, information and end tag is called an element. It is possible to assign an HTML attribute to the element, which contributes further information.
 
+## HTML elements reference
+
 |Tag|Description|Type|Example|Doc|
 |:-:|:-|:-:|:-:|:-:|
 |`<!--...-->`|Defines a comment| |[here](../examples/comment.html)||
@@ -31,14 +33,6 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<br>`|Defines a single line break| |[here](../examples/break.html)||
 |`<hr>`|Defines a thematic change in the content| |[here](../examples/horizontal_rule.html)||
 |`<summary>`|Defines a visible heading for a `<details>` element| |[here](../examples/details.html)||
-|`<header>`|Defines a header for a document or section| | ||
-|`<nav>`|Defines navigation links| |[here](../examples/nav.html)||
-|`<aside>`|Defines content aside from the page content| | ||
-|`<main>`|Specifies the main content of a document| | ||
-|`<section>`|Defines a section in a document| | ||
-|`<article>`|Defines an article| | ||
-|`<footer>`|Defines a footer for a document or section| | ||
-|`<time>`|Defines a specific time (or datetime)| | ||
 |`<b>`|Defines bold text| |[here](../examples/bold.html)||
 |`<cite>`|Defines the title of a work| |[here](../examples/cite.html)|x|
 |`<blockquote>`|Defines a section that is quoted from another source| |[here](../examples/blockquote.html)|x|
@@ -46,10 +40,14 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<i>`|Defines a part of text in an alternate voice or mood| |[here](../examples/italic.html)|x|
 |`<sub>`|Defines subscripted text| |[here](../examples/subscript.html)|x|
 |`<sup>`|Defines superscripted text| |[here](../examples/superscript.html)|x|
-
-## The W3C Markup Validation Service
-
-URL: [https://validator.w3.org/](https://validator.w3.org/)
+|`<time>`|Defines a specific time (or datetime)| | ||
+|`<header>`|Defines a header for a document or section| |[here](../examples/semantic_structure.html)||
+|`<nav>`|Defines navigation links| |[here](../examples/nav.html)||
+|`<aside>`|Defines content aside from the page content| |[here](../examples/semantic_structure.html)||
+|`<main>`|Specifies the main content of a document| |[here](../examples/semantic_structure.html)||
+|`<section>`|Defines a section in a document| | ||
+|`<article>`|Defines an article| |[here](../examples/semantic_structure.html)||
+|`<footer>`|Defines a footer for a document or section| |[here](../examples/semantic_structure.html)||
 
 ## HTML `<cite>` Tag
 
@@ -96,3 +94,15 @@ The `<sub>` tag defines subscript text. Subscript text appears half a character 
 ## HTML `<sup>` Tag
 
 The `<sup>` tag defines superscript text. Superscript text appears half a character above the normal line, and is sometimes rendered in a smaller font. Superscript text can be used for footnotes, like WWW[1].
+
+## HTML `<h1>...<h6>`
+
+Avoid using multiple `<h1>` elements on one page.
+
+While using multiple `<h1>` elements on one page is allowed by the HTML standard (as long as they are not nested), this is not considered a best practice. A page should generally have a single `<h1>` element that describes the content of the page.
+
+Prefer using only one `<h1>` per page and nest headings without skipping levels.
+
+## Basic Website Layout
+
+![Semantic Structure](../images/semantic_structure.png)
