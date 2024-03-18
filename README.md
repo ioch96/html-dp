@@ -32,6 +32,7 @@
 |`<footer>`|Defines a footer for a document or section| | |
 |`<time>`|Defines a specific time (or datetime)| | |
 |`<b>`|Defines bold text| |[here](src/bold.html)|
+|`<cite>`|Defines the title of a work| |[here](src/cite.html)|
 
 ## The W3C Markup Validation Service
 
