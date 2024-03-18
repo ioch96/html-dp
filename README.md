@@ -1,14 +1,14 @@
 # HTML Element Reference
 
-|Tag|Description|
-|:-:|:-|
+|Tag|Description|Example|
+|:-:|:-|:-|
 |`<!--...-->`|Defines a comment|
-|`<!DOCTYPE>`|Defines the document type|
-|`<html>`|Defines the root of an HTML document|
-|`<head>`|Contains metadata/information for the document|
-|`<body>`|Defines the document's body|
-|`<title>`|Defines a title for the document|
-|`<p>`|Defines a paragraph|
+|`<!DOCTYPE>`|Defines the document type|[here](examples/example_01.html)|
+|`<html>`|Defines the root of an HTML document|[here](examples/example_01.html)|
+|`<head>`|Contains metadata/information for the document|[here](examples/example_01.html)|
+|`<body>`|Defines the document's body|[here](examples/example_01.html)|
+|`<title>`|Defines a title for the document|[here](examples/example_01.html)|
+|`<p>`|Defines a paragraph|[here](examples/example_01.html)|
 |`<h1> to <h6>`|Defines HTML headings|
 |`<meta>`|Defines metadata about an HTML document|
 |`<strong>`|Defines important text|
