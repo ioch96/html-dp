@@ -11,7 +11,7 @@
 |`<p>`|Defines a paragraph| |[here](src/paragraph.html)|
 |`<h1> to <h6>`|Defines HTML headings| |[here](src/headings.html)|
 |`<meta>`|Defines metadata about an HTML document| |[here](src/metadata.html)|
-|`<strong>`|Defines important text| | |
+|`<strong>`|Defines important text| |[here](src/strong.html)|
 |`<header>`|Defines a header for a document or section| | |
 |`<nav>`|Defines navigation links| | |
 |`<aside>`|Defines content aside from the page content| | |
