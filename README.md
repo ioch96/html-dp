@@ -24,7 +24,7 @@
 |`<hr>`|Defines a thematic change in the content| |[here](src/horizontal_rule.html)|
 |`<summary>`|Defines a visible heading for a `<details>` element| |[here](src/details.html)|
 |`<header>`|Defines a header for a document or section| | |
-|`<nav>`|Defines navigation links| | |
+|`<nav>`|Defines navigation links| |[here](src/nav.html)|
 |`<aside>`|Defines content aside from the page content| | |
 |`<main>`|Specifies the main content of a document| | |
 |`<section>`|Defines a section in a document| | |
