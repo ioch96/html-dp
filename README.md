@@ -25,9 +25,9 @@
 |`<li>`|Defines a list item|[here](src/example_06.html)|
 |`<ol>`|Defines an ordered list|[here](src/example_07.html)|
 |`<ul>`|Defines an unordered list|[here](src/example_06.html)|
-|`<dl>`|Defines a description list|
-|`<dt>`|Defines a term/name in a description list|
-|`<dd>`|Defines a description/value of a term in a description list|
+|`<dl>`|Defines a description list|[here](src/example_08.html)|
+|`<dt>`|Defines a term/name in a description list|[here](src/example_08.html)|
+|`<dd>`|Defines a description/value of a term in a description list|[here](src/example_08.html)|
 |`<br>`|Defines a single line break|[here](src/example_04.html)|
 |`<hr>`|Defines a thematic change in the content|[here](src/example_03.html)|
 |``||
