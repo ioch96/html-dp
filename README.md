@@ -22,9 +22,9 @@
 |`<time>`|Defines a specific time (or datetime)|
 |`<section>`|Defines a section in a document|
 |`<details>`|Defines additional details that the user can view or hide|
-|`<li>`|Defines a list item|
+|`<li>`|Defines a list item|[here](src/example_06.html)|
 |`<ol>`|Defines an ordered list|
-|`<ul>`|Defines an unordered list|
+|`<ul>`|Defines an unordered list|[here](src/example_06.html)|
 |`<dl>`|Defines a description list|
 |`<dt>`|Defines a term/name in a description list|
 |`<dd>`|Defines a description/value of a term in a description list|
