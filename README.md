@@ -33,6 +33,7 @@
 |`<time>`|Defines a specific time (or datetime)| | |
 |`<b>`|Defines bold text| |[here](src/bold.html)|
 |`<cite>`|Defines the title of a work| |[here](src/cite.html)|
+|`<blockquote>`|Defines a section that is quoted from another source| |[here](src/blockquote.html)|
 
 ## The W3C Markup Validation Service
 
@@ -45,3 +46,9 @@ The `<cite>` tag defines the title of a creative work (e.g. a book, a poem, a so
 **Note**: A person's name is not the title of a work.
 
 The text in the `<cite>` element usually renders in *italic*.
+
+## HTML `<blockquote>` Tag
+
+The `<blockquote>` tag specifies a section that is quoted from another source.
+
+Browsers usually indent `<blockquote>` elements.
