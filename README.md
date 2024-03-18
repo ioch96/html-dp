@@ -12,15 +12,7 @@
 |`<h1> to <h6>`|Defines HTML headings| |[here](src/headings.html)|
 |`<meta>`|Defines metadata about an HTML document| |[here](src/metadata.html)|
 |`<strong>`|Defines important text| |[here](src/strong.html)|
-|`<header>`|Defines a header for a document or section| | |
-|`<nav>`|Defines navigation links| | |
-|`<aside>`|Defines content aside from the page content| | |
-|`<main>`|Specifies the main content of a document| | |
-|`<article>`|Defines an article| | |
-|`<footer>`|Defines a footer for a document or section| | |
 |`<small>`|Defines smaller text| |[here](src/small.html)|
-|`<time>`|Defines a specific time (or datetime)| | |
-|`<section>`|Defines a section in a document| | |
 |`<details>`|Defines additional details that the user can view or hide| |[here](src/details.html)|
 |`<li>`|Defines a list item| |[here](src/unordered_list.html)|
 |`<ol>`|Defines an ordered list| |[here](src/ordered_list.html)|
@@ -31,6 +23,14 @@
 |`<br>`|Defines a single line break| |[here](src/break.html)|
 |`<hr>`|Defines a thematic change in the content| |[here](src/horizontal_rule.html)|
 |`<summary>`|Defines a visible heading for a `<details>` element| |[here](src/details.html)|
+|`<header>`|Defines a header for a document or section| | |
+|`<nav>`|Defines navigation links| | |
+|`<aside>`|Defines content aside from the page content| | |
+|`<main>`|Specifies the main content of a document| | |
+|`<section>`|Defines a section in a document| | |
+|`<article>`|Defines an article| | |
+|`<footer>`|Defines a footer for a document or section| | |
+|`<time>`|Defines a specific time (or datetime)| | |
 
 ## The W3C Markup Validation Service
 
