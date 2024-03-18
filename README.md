@@ -2,7 +2,7 @@
 
 |Tag|Description|Type|Example|
 |:-:|:-|:-:|:-:|
-|`<!--...-->`|Defines a comment| |[here](src/example_05.html)|
+|`<!--...-->`|Defines a comment| |[here](src/comment.html)|
 |`<!DOCTYPE>`|Defines the document type| |[here](src/example_01.html)|
 |`<html>`|Defines the root of an HTML document| |[here](src/example_01.html)|
 |`<head>`|Contains metadata/information for the document| |[here](src/example_01.html)|
@@ -18,7 +18,7 @@
 |`<main>`|Specifies the main content of a document| | |
 |`<article>`|Defines an article| | |
 |`<footer>`|Defines a footer for a document or section| | |
-|`<small>`|Defines smaller text| | |
+|`<small>`|Defines smaller text| |[here](src/small.html)|
 |`<time>`|Defines a specific time (or datetime)| | |
 |`<section>`|Defines a section in a document| | |
 |`<details>`|Defines additional details that the user can view or hide| | |
