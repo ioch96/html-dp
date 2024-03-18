@@ -22,11 +22,11 @@
 |`<time>`|Defines a specific time (or datetime)| | |
 |`<section>`|Defines a section in a document| | |
 |`<details>`|Defines additional details that the user can view or hide| | |
-|`<li>`|Defines a list item| |[here](src/ul.html)|
+|`<li>`|Defines a list item| |[here](src/unordered_list.html)|
 |`<ol>`|Defines an ordered list| |[here](src/ordered_list.html)|
-|`<ul>`|Defines an unordered list| |[here](src/ul.html)|
-|`<dl>`|Defines a description list| |[here](src/dl.html)|
-|`<dt>`|Defines a term/name in a description list| |[here](src/dl.html)|
-|`<dd>`|Defines a description/value of a term in a description list| |[here](src/dl.html)|
+|`<ul>`|Defines an unordered list| |[here](src/unordered_list.html)|
+|`<dl>`|Defines a description list| |[here](src/description_list.html)|
+|`<dt>`|Defines a term/name in a description list| |[here](src/description_list.html)|
+|`<dd>`|Defines a description/value of a term in a description list| |[here](src/description_list.html)|
 |`<br>`|Defines a single line break| |[here](src/break.html)|
 |`<hr>`|Defines a thematic change in the content| |[here](src/horizontal_rule.html)|
