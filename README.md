@@ -10,7 +10,7 @@
 |`<title>`|Defines a title for the document| |[here](src/example_01.html)|
 |`<p>`|Defines a paragraph| |[here](src/example_01.html)|
 |`<h1> to <h6>`|Defines HTML headings| |[here](src/example_02.html)|
-|`<meta>`|Defines metadata about an HTML document| |[here](src/example_09.html)|
+|`<meta>`|Defines metadata about an HTML document| |[here](src/meta.html)|
 |`<strong>`|Defines important text| | |
 |`<header>`|Defines a header for a document or section| | |
 |`<nav>`|Defines navigation links| | |
@@ -22,9 +22,9 @@
 |`<time>`|Defines a specific time (or datetime)| | |
 |`<section>`|Defines a section in a document| | |
 |`<details>`|Defines additional details that the user can view or hide| | |
-|`<li>`|Defines a list item| |[here](src/example_06.html)|
-|`<ol>`|Defines an ordered list| |[here](src/example_07.html)|
-|`<ul>`|Defines an unordered list| |[here](src/example_06.html)|
+|`<li>`|Defines a list item| |[here](src/ul.html)|
+|`<ol>`|Defines an ordered list| |[here](src/ol.html)|
+|`<ul>`|Defines an unordered list| |[here](src/ul.html)|
 |`<dl>`|Defines a description list| |[here](src/example_08.html)|
 |`<dt>`|Defines a term/name in a description list| |[here](src/example_08.html)|
 |`<dd>`|Defines a description/value of a term in a description list| |[here](src/example_08.html)|
