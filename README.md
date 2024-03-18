@@ -21,7 +21,7 @@
 |`<small>`|Defines smaller text| |[here](src/small.html)|
 |`<time>`|Defines a specific time (or datetime)| | |
 |`<section>`|Defines a section in a document| | |
-|`<details>`|Defines additional details that the user can view or hide| | |
+|`<details>`|Defines additional details that the user can view or hide| |[here](src/details.html)|
 |`<li>`|Defines a list item| |[here](src/unordered_list.html)|
 |`<ol>`|Defines an ordered list| |[here](src/ordered_list.html)|
 |`<ul>`|Defines an unordered list| |[here](src/unordered_list.html)|
