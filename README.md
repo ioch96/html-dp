@@ -10,7 +10,7 @@
 |`<title>`|Defines a title for the document| |[here](src/title.html)|
 |`<p>`|Defines a paragraph| |[here](src/paragraph.html)|
 |`<h1> to <h6>`|Defines HTML headings| |[here](src/headings.html)|
-|`<meta>`|Defines metadata about an HTML document| |[here](src/meta.html)|
+|`<meta>`|Defines metadata about an HTML document| |[here](src/metadata.html)|
 |`<strong>`|Defines important text| | |
 |`<header>`|Defines a header for a document or section| | |
 |`<nav>`|Defines navigation links| | |
@@ -23,7 +23,7 @@
 |`<section>`|Defines a section in a document| | |
 |`<details>`|Defines additional details that the user can view or hide| | |
 |`<li>`|Defines a list item| |[here](src/ul.html)|
-|`<ol>`|Defines an ordered list| |[here](src/ol.html)|
+|`<ol>`|Defines an ordered list| |[here](src/ordered_list.html)|
 |`<ul>`|Defines an unordered list| |[here](src/ul.html)|
 |`<dl>`|Defines a description list| |[here](src/dl.html)|
 |`<dt>`|Defines a term/name in a description list| |[here](src/dl.html)|
