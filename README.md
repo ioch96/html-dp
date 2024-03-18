@@ -30,3 +30,4 @@
 |`<dd>`|Defines a description/value of a term in a description list| |[here](src/description_list.html)|
 |`<br>`|Defines a single line break| |[here](src/break.html)|
 |`<hr>`|Defines a thematic change in the content| |[here](src/horizontal_rule.html)|
+|`<summary>`|Defines a visible heading for a `<details>` element| |[here](src/details.html)|
