@@ -31,3 +31,7 @@
 |`<br>`|Defines a single line break| |[here](src/break.html)|
 |`<hr>`|Defines a thematic change in the content| |[here](src/horizontal_rule.html)|
 |`<summary>`|Defines a visible heading for a `<details>` element| |[here](src/details.html)|
+
+## The W3C Markup Validation Service
+
+URL: https://validator.w3.org/
