@@ -28,5 +28,5 @@
 |`<dl>`|Defines a description list| |[here](src/dl.html)|
 |`<dt>`|Defines a term/name in a description list| |[here](src/dl.html)|
 |`<dd>`|Defines a description/value of a term in a description list| |[here](src/dl.html)|
-|`<br>`|Defines a single line break| |[here](src/br.html)|
-|`<hr>`|Defines a thematic change in the content| |[here](src/hr.html)|
+|`<br>`|Defines a single line break| |[here](src/break.html)|
+|`<hr>`|Defines a thematic change in the content| |[here](src/horizontal_rule.html)|
