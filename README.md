@@ -3,10 +3,10 @@
 |Tag|Description|Type|Example|
 |:-:|:-|:-:|:-:|
 |`<!--...-->`|Defines a comment| |[here](src/comment.html)|
-|`<!DOCTYPE>`|Defines the document type| |[here](src/example_01.html)|
-|`<html>`|Defines the root of an HTML document| |[here](src/example_01.html)|
-|`<head>`|Contains metadata/information for the document| |[here](src/example_01.html)|
-|`<body>`|Defines the document's body| |[here](src/example_01.html)|
+|`<!DOCTYPE>`|Defines the document type| |[here](src/basic.html)|
+|`<html>`|Defines the root of an HTML document| |[here](src/basic.html)|
+|`<head>`|Contains metadata/information for the document| |[here](src/basic.html)|
+|`<body>`|Defines the document's body| |[here](src/basic.html)|
 |`<title>`|Defines a title for the document| |[here](src/title.html)|
 |`<p>`|Defines a paragraph| |[here](src/p.html)|
 |`<h1> to <h6>`|Defines HTML headings| |[here](src/h1.html)|
