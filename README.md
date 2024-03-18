@@ -10,7 +10,7 @@
 |`<title>`|Defines a title for the document| |[here](src/example_01.html)|
 |`<p>`|Defines a paragraph| |[here](src/example_01.html)|
 |`<h1> to <h6>`|Defines HTML headings| |[here](src/example_02.html)|
-|`<meta>`|Defines metadata about an HTML document| | |
+|`<meta>`|Defines metadata about an HTML document| |[here](src/example_09.html)|
 |`<strong>`|Defines important text| | |
 |`<header>`|Defines a header for a document or section| | |
 |`<nav>`|Defines navigation links| | |
