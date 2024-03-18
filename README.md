@@ -29,6 +29,6 @@
 |`<dt>`|Defines a term/name in a description list|
 |`<dd>`|Defines a description/value of a term in a description list|
 |`<br>`|Defines a single line break|
-|``||
+|`<hr>`|Defines a thematic change in the content|[here](src/example_03.html)|
 |``||
 |``||
