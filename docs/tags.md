@@ -18,40 +18,40 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<head>`|Contains metadata/information for the document| |[here](../examples/basic.html)||
 |`<body>`|Defines the document's body| |[here](../examples/basic.html)||
 |`<title>`|Defines a title for the document| |[here](../examples/title.html)||
-|`<p>`|Defines a paragraph| |[here](../examples/paragraph.html)|x|
-|`<h1> to <h6>`|Defines HTML headings| |[here](../examples/headings.html)||
+|`<p>`|Defines a paragraph|block|[here](../examples/paragraph.html)|x|
+|`<h1> to <h6>`|Defines HTML headings|block|[here](../examples/headings.html)||
 |`<meta>`|Defines metadata about an HTML document| |[here](../examples/metadata.html)||
-|`<strong>`|Defines important text| |[here](../examples/strong.html)||
-|`<small>`|Defines smaller text| |[here](../examples/small.html)||
+|`<strong>`|Defines important text|inline|[here](../examples/strong.html)||
+|`<small>`|Defines smaller text|inline|[here](../examples/small.html)||
 |`<details>`|Defines additional details that the user can view or hide| |[here](../examples/details.html)||
-|`<li>`|Defines a list item| |[here](../examples/unordered_list.html)||
-|`<ol>`|Defines an ordered list| |[here](../examples/ordered_list.html)||
-|`<ul>`|Defines an unordered list| |[here](../examples/unordered_list.html)||
-|`<dl>`|Defines a description list| |[here](../examples/description_list.html)||
-|`<dt>`|Defines a term/name in a description list| |[here](../examples/description_list.html)||
-|`<dd>`|Defines a description/value of a term in a description list| |[here](../examples/description_list.html)||
-|`<br>`|Defines a single line break| |[here](../examples/break.html)||
-|`<hr>`|Defines a thematic change in the content| |[here](../examples/horizontal_rule.html)||
+|`<li>`|Defines a list item|block|[here](../examples/unordered_list.html)||
+|`<ol>`|Defines an ordered list|block|[here](../examples/ordered_list.html)||
+|`<ul>`|Defines an unordered list|block|[here](../examples/unordered_list.html)||
+|`<dl>`|Defines a description list|block|[here](../examples/description_list.html)||
+|`<dt>`|Defines a term/name in a description list|block|[here](../examples/description_list.html)||
+|`<dd>`|Defines a description/value of a term in a description list|block|[here](../examples/description_list.html)||
+|`<br>`|Defines a single line break|inline|[here](../examples/break.html)||
+|`<hr>`|Defines a thematic change in the content|block|[here](../examples/horizontal_rule.html)||
 |`<summary>`|Defines a visible heading for a `<details>` element| |[here](../examples/details.html)||
-|`<b>`|Defines bold text| |[here](../examples/bold.html)||
-|`<cite>`|Defines the title of a work| |[here](../examples/cite.html)|x|
-|`<blockquote>`|Defines a section that is quoted from another source| |[here](../examples/blockquote.html)|x|
-|`<em>`|Defines emphasized text| |[here](../examples/emphasized.html)|x|
-|`<i>`|Defines a part of text in an alternate voice or mood| |[here](../examples/italic.html)|x|
-|`<sub>`|Defines subscripted text| |[here](../examples/subscript.html)|x|
-|`<sup>`|Defines superscripted text| |[here](../examples/superscript.html)|x|
-|`<time>`|Defines a specific time (or datetime)| | ||
-|`<header>`|Defines a header for a document or section| |[here](../examples/semantic_structure.html)||
-|`<nav>`|Defines navigation links| |[here](../examples/nav.html)||
-|`<aside>`|Defines content aside from the page content| |[here](../examples/semantic_structure.html)||
-|`<main>`|Specifies the main content of a document| |[here](../examples/semantic_structure.html)||
-|`<section>`|Defines a section in a document| | ||
-|`<article>`|Defines an article| |[here](../examples/semantic_structure.html)||
-|`<footer>`|Defines a footer for a document or section| |[here](../examples/semantic_structure.html)||
-|`<div>`|Defines a section in a document| |[here](../examples/div.html)||
-|`<span>`|Defines a section in a document| |[here](../examples/span.html)||
-|`<a>`|Defines a hyperlink| |[here](../examples/anchor.html)||
-|`<abbr>`|Defines an abbreviation or an acronym| |[here](../examples/abbreviation.html)|x|
+|`<b>`|Defines bold text|inline|[here](../examples/bold.html)||
+|`<cite>`|Defines the title of a work|inline|[here](../examples/cite.html)|x|
+|`<blockquote>`|Defines a section that is quoted from another source|block|[here](../examples/blockquote.html)|x|
+|`<em>`|Defines emphasized text|inline|[here](../examples/emphasized.html)|x|
+|`<i>`|Defines a part of text in an alternate voice or mood|inline|[here](../examples/italic.html)|x|
+|`<sub>`|Defines subscripted text|inline|[here](../examples/subscript.html)|x|
+|`<sup>`|Defines superscripted text|inline|[here](../examples/superscript.html)|x|
+|`<time>`|Defines a specific time (or datetime)|inline| ||
+|`<header>`|Defines a header for a document or section|block|[here](../examples/semantic_structure.html)||
+|`<nav>`|Defines navigation links|block|[here](../examples/nav.html)||
+|`<aside>`|Defines content aside from the page content|block|[here](../examples/semantic_structure.html)||
+|`<main>`|Specifies the main content of a document|block|[here](../examples/semantic_structure.html)||
+|`<section>`|Defines a section in a document|block| ||
+|`<article>`|Defines an article|block|[here](../examples/semantic_structure.html)||
+|`<footer>`|Defines a footer for a document or section|block|[here](../examples/semantic_structure.html)||
+|`<div>`|Defines a section in a document|block|[here](../examples/div.html)||
+|`<span>`|Defines a section in a document|inline|[here](../examples/span.html)||
+|`<a>`|Defines a hyperlink|inline|[here](../examples/anchor.html)||
+|`<abbr>`|Defines an abbreviation or an acronym|inline|[here](../examples/abbreviation.html)|x|
 
 ## HTML `<cite>` Tag
 
@@ -116,3 +116,37 @@ The `<abbr>` tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.
 ## Basic Website Layout
 
 ![Semantic Structure](../images/semantic_structure.png)
+
+## HTML Block and Inline Elements
+
+Every HTML element has a default display value, depending on what type of element it is.
+
+The two most common display values are block and inline.
+
+### Block-level Elements
+
+A block-level element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.
+
+A block-level element always takes up the full width available (stretches out to the left and right as far as it can).
+
+### Inline Elements
+
+An inline element does not start on a new line.
+
+An inline element only takes up as much width as necessary.
+
+**Note**: An inline element cannot contain a block-level element!
+
+### The `<div>` Element
+
+The `<div>` element is often used as a container for other HTML elements.
+
+The `<div>` element has no required attributes, but style, class and id are common.
+
+When used together with CSS, the `<div>` element can be used to style blocks of content.
+
+### The `<span>` Element
+
+The `<span>` element is an inline container used to mark up a part of a text, or a part of a document.
+
+The `<span>` element has no required attributes, but style, class and id are common.
