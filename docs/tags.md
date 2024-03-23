@@ -48,8 +48,10 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<section>`|Defines a section in a document| | ||
 |`<article>`|Defines an article| |[here](../examples/semantic_structure.html)||
 |`<footer>`|Defines a footer for a document or section| |[here](../examples/semantic_structure.html)||
-|`div`|Defines a section in a document| |[here](../examples/div.html)||
-|`span`|Defines a section in a document| |[here](../examples/span.html)||
+|`<div>`|Defines a section in a document| |[here](../examples/div.html)||
+|`<span>`|Defines a section in a document| |[here](../examples/span.html)||
+|`<a>`|Defines a hyperlink| |[here](../examples/anchor.html)||
+|`<abbr>`|Defines an abbreviation or an acronym| |[here](../examples/abbreviation.html)|x|
 
 ## HTML `<cite>` Tag
 
@@ -97,7 +99,7 @@ The `<sub>` tag defines subscript text. Subscript text appears half a character 
 
 The `<sup>` tag defines superscript text. Superscript text appears half a character above the normal line, and is sometimes rendered in a smaller font. Superscript text can be used for footnotes, like WWW[1].
 
-## HTML `<h1>...<h6>`
+## HTML `<h1>...<h6>` Tag
 
 Avoid using multiple `<h1>` elements on one page.
 
@@ -105,19 +107,12 @@ While using multiple `<h1>` elements on one page is allowed by the HTML standard
 
 Prefer using only one `<h1>` per page and nest headings without skipping levels.
 
+## HTML `<abbr>` Tag
+
+The `<abbr>` tag defines an abbreviation or an acronym, like "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".
+
+**Tip**: Use the global title attribute to show the description for the abbreviation/acronym when you mouse over the element.
+
 ## Basic Website Layout
 
 ![Semantic Structure](../images/semantic_structure.png)
-
-## HTML Escape Characters
-
-URL: `https://mateam.net/html-escape-characters`
-
-|Number|Symbol|Entity Name|Code|Description|
-|:----:|:----:|:---------:|:--:|:---------:|
-|34|`“`|`&quot;`|`&#34;`|Quotation mark|
-|38|`&`|`&amp;`|`&#38;`|Ampersand|
-|39|`‘`||`&#39;`|Apostrophe|
-|60|`<`|`&alt;`|`&#60;`|Less-than|
-|62|`>`|`&gt;`|`&#62;`|Greater than|
-|160|``|`&nbsp;`|`&#160;`|Non-breaking space|
