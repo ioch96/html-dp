@@ -40,12 +40,12 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<i>`|Defines a part of text in an alternate voice or mood|inline|[here](../examples/italic.html)|x|
 |`<sub>`|Defines subscripted text|inline|[here](../examples/subscript.html)|x|
 |`<sup>`|Defines superscripted text|inline|[here](../examples/superscript.html)|x|
-|`<time>`|Defines a specific time (or datetime)|inline| ||
+|`<time>`|Defines a specific time (or datetime)|inline|[here](../examples/time.html)||
 |`<header>`|Defines a header for a document or section|block|[here](../examples/semantic_structure.html)||
 |`<nav>`|Defines navigation links|block|[here](../examples/nav.html)||
 |`<aside>`|Defines content aside from the page content|block|[here](../examples/semantic_structure.html)||
 |`<main>`|Specifies the main content of a document|block|[here](../examples/semantic_structure.html)||
-|`<section>`|Defines a section in a document|block| ||
+|`<section>`|Defines a section in a document|block|[here](../examples/section.html)||
 |`<article>`|Defines an article|block|[here](../examples/semantic_structure.html)||
 |`<footer>`|Defines a footer for a document or section|block|[here](../examples/semantic_structure.html)||
 |`<div>`|Defines a section in a document|block|[here](../examples/div.html)||
@@ -123,30 +123,22 @@ Every HTML element has a default display value, depending on what type of elemen
 
 The two most common display values are block and inline.
 
-### Block-level Elements
+## Block-level Elements
 
 A block-level element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.
 
 A block-level element always takes up the full width available (stretches out to the left and right as far as it can).
 
-### Inline Elements
+## Inline Elements
 
-An inline element does not start on a new line.
-
-An inline element only takes up as much width as necessary.
+An inline element does not start on a new line. An inline element only takes up as much width as necessary.
 
 **Note**: An inline element cannot contain a block-level element!
 
-### The `<div>` Element
+## The `<div>` Element
 
-The `<div>` element is often used as a container for other HTML elements.
+The `<div>` element is often used as a container for other HTML elements. The `<div>` element has no required attributes, but style, class and id are common. When used together with CSS, the `<div>` element can be used to style blocks of content.
 
-The `<div>` element has no required attributes, but style, class and id are common.
+## The `<span>` Element
 
-When used together with CSS, the `<div>` element can be used to style blocks of content.
-
-### The `<span>` Element
-
-The `<span>` element is an inline container used to mark up a part of a text, or a part of a document.
-
-The `<span>` element has no required attributes, but style, class and id are common.
+The `<span>` element is an inline container used to mark up a part of a text, or a part of a document The `<span>` element has no required attributes, but style, class and id are common.
