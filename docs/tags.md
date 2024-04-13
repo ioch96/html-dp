@@ -12,9 +12,9 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 
 |Tag|Description|Type|Example|Doc|
 |:-:|:-|:-:|:-:|:-:|
-|`<!--...-->`|Defines a comment| |[here](examples/comment.html)||
-|`<!DOCTYPE>`|Defines the document type| |[here](examples/basic.html)||
-|`<html>`|Defines the root of an HTML document| |[here](examples/basic.html)||
+|`<!--...-->`|Defines a comment| |[here](examples/comment.html)|[x](tags/comment.md)|
+|`<!DOCTYPE>`|Defines the document type| |[here](examples/basic.html)|[x](tags/doctype.md)|
+|`<html>`|Defines the root of an HTML document| |[here](examples/basic.html)|[x](tags/html.md)|
 |`<head>`|Contains metadata/information for the document| |[here](examples/basic.html)||
 |`<body>`|Defines the document's body| |[here](examples/basic.html)||
 |`<title>`|Defines a title for the document| |[here](examples/title.html)||
@@ -65,46 +65,4 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<td>`|Defines a cell in a table||[here](examples/table.html)|[x](tags/td.md)|
 |`<pre>`|Defines preformatted text|block|[here](examples/pre.html)|[x](tags/pre.md)|
 |`<code>`|Defines a piece of computer code|inline|[here](examples/code.html)|[x](tags/code.md)|
-
-## What is an HTML Element?
-
-An HTML element is defined by a start tag, some content, and an end tag:
-
-`<tagname> Content goes here... </tagname>`
-
-The HTML element is everything from the start tag to the end tag:
-
-```html
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
-```
-
-**Note**: Some HTML elements have no content (like the `<br>` element). These elements are called empty elements. Empty elements do not have an end tag!
-
-## HTML Page Structure
-
-Below is a visualization of an HTML page structure:
-
-![HTML page structure](../images/page_structure.png)
-
-## Basic Website Layout
-
-![Semantic Structure](../images/semantic_structure.png)
-
-## HTML Block and Inline Elements
-
-Every HTML element has a default display value, depending on what type of element it is.
-
-The two most common display values are block and inline.
-
-## Block-level Elements
-
-A block-level element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.
-
-A block-level element always takes up the full width available (stretches out to the left and right as far as it can).
-
-## Inline Elements
-
-An inline element does not start on a new line. An inline element only takes up as much width as necessary.
-
-**Note**: An inline element cannot contain a block-level element!
+|`<style>`|Defines style information for a document||[here](examples/style.html)|[x](tags/style.md)|
