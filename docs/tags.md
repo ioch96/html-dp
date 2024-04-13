@@ -55,6 +55,9 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<img>`|Defines an image|inline|[here](examples/image.html)|[x](tags/image.md)|
 |`<figure>`|Specifies self-contained content|block|[here](examples/figure.html)|[x](tags/figure.md)|
 |`<figcaption>`|Defines a caption for a `<figure>` element|block|[here](examples/figcaption.html)|[x](tags/figcaption.md)|
+|`<iframe>`|Defines an inline frame|inline|[here](examples/iframe.html)|[x](tags/iframe.md)|
+|`<audio>`|Defines embedded sound content|inline|[here](examples/audio.html)|[x](tags/audio.md)|
+|`<video>`|Defines embedded video content|inline|[here](examples/video.html)|[x](tags/video.md)|
 
 ## Basic Website Layout
 
