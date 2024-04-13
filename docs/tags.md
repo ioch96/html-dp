@@ -66,6 +66,27 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<pre>`|Defines preformatted text|block|[here](examples/pre.html)|[x](tags/pre.md)|
 |`<code>`|Defines a piece of computer code|inline|[here](examples/code.html)|[x](tags/code.md)|
 
+## What is an HTML Element?
+
+An HTML element is defined by a start tag, some content, and an end tag:
+
+`<tagname> Content goes here... </tagname>`
+
+The HTML element is everything from the start tag to the end tag:
+
+```html
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+```
+
+**Note**: Some HTML elements have no content (like the `<br>` element). These elements are called empty elements. Empty elements do not have an end tag!
+
+## HTML Page Structure
+
+Below is a visualization of an HTML page structure:
+
+![HTML page structure](../images/page_structure.png)
+
 ## Basic Website Layout
 
 ![Semantic Structure](../images/semantic_structure.png)
