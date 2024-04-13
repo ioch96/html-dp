@@ -23,7 +23,7 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<meta>`|Defines metadata about an HTML document| |[here](examples/metadata.html)||
 |`<strong>`|Defines important text|inline|[here](examples/strong.html)||
 |`<small>`|Defines smaller text|inline|[here](examples/small.html)||
-|`<details>`|Defines additional details that the user can view or hide| |[here](examples/details.html)||
+|`<details>`|Defines additional details that the user can view or hide|block|[here](examples/details.html)||
 |`<li>`|Defines a list item|block|[here](examples/unordered_list.html)||
 |`<ol>`|Defines an ordered list|block|[here](examples/ordered_list.html)||
 |`<ul>`|Defines an unordered list|block|[here](examples/unordered_list.html)||
@@ -58,6 +58,13 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<iframe>`|Defines an inline frame|inline|[here](examples/iframe.html)|[x](tags/iframe.md)|
 |`<audio>`|Defines embedded sound content|inline|[here](examples/audio.html)|[x](tags/audio.md)|
 |`<video>`|Defines embedded video content|inline|[here](examples/video.html)|[x](tags/video.md)|
+|`<u>`|Defines some text that is unarticulated and styled differently from normal text|inline|[here](examples/u.html)|[x](tags/u.md)|
+|`<table>`|Defines a table|block|[here](examples/table.html)|[x](tags/table.md)|
+|`<th>`|Defines a header cell in a table||[here](examples/table.html)|[x](tags/th.md)|
+|`<tr>`|Defines a row in a table||[here](examples/table.html)|[x](tags/tr.md)|
+|`<td>`|Defines a cell in a table||[here](examples/table.html)|[x](tags/td.md)|
+|`<pre>`|Defines preformatted text|block|[here](examples/pre.html)|[x](tags/pre.md)|
+|`<code>`|Defines a piece of computer code|inline|[here](examples/code.html)|[x](tags/code.md)|
 
 ## Basic Website Layout
 
