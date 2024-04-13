@@ -6,7 +6,7 @@ The `<div>` element is often used as a container for other HTML elements. The `<
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Div tag</title>
+    <title>The div element</title>
     <style>
       div {
         color: white;

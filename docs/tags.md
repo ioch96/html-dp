@@ -52,6 +52,9 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<span>`|Defines a section in a document|inline|[here](examples/span.html)|[x](tags/span.md)|
 |`<a>`|Defines a hyperlink|inline|[here](examples/anchor.html)|[x](tags/a.md)|
 |`<abbr>`|Defines an abbreviation or an acronym|inline|[here](examples/abbreviation.html)|[x](tags/abbr.md)|
+|`<img>`|Defines an image|inline|[here](examples/image.html)|[x](tags/image.md)|
+|`<figure>`|Specifies self-contained content|block|[here](examples/figure.html)|[x](tags/figure.md)|
+|`<figcaption>`|Defines a caption for a `<figure>` element|block|[here](examples/figcaption.html)|[x](tags/figcaption.md)|
 
 ## Basic Website Layout
 

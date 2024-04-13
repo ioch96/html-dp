@@ -6,7 +6,7 @@ The `<span>` element is an inline container used to mark up a part of a text, or
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Span tag</title>
+    <title>The span element</title>
   </head>
   <body>
     <p>
