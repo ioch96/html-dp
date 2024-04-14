@@ -30,7 +30,7 @@ The HTML element is everything from the start tag to the end tag:
 
 Below is a visualization of an HTML page structure:
 
-![HTML page structure](../images/page_structure.png)
+![HTML page structure](images/page_structure.png)
 
 **Note**: The content inside the `<body>` section will be displayed in a browser. The content inside the `<title>` element will be shown in the browser's title bar or in the page's tab.
 
@@ -48,7 +48,7 @@ The HTML standard does not require lowercase tags, but W3C recommends lowercase 
 
 ## Basic Website Layout
 
-![Semantic Structure](../images/semantic_structure.png)
+![Semantic Structure](images/semantic_structure.png)
 
 ## HTML Block and Inline Elements
 

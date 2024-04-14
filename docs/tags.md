@@ -17,7 +17,7 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<html>`|Defines the root of an HTML document| |[here](examples/basic.html)|[x](tags/html.md)|
 |`<head>`|Contains metadata/information for the document| |[here](examples/basic.html)||
 |`<body>`|Defines the document's body| |[here](examples/basic.html)||
-|`<title>`|Defines a title for the document| |[here](examples/title.html)||
+|`<title>`|Defines a title for the document| |[here](examples/title.html)|[x](tags/title.md)|
 |`<p>`|Defines a paragraph|block|[here](examples/paragraph.html)|[x](tags/p.md)|
 |`<h1> to <h6>`|Defines HTML headings|block|[here](examples/headings.html)|[x](tags/headings.md)|
 |`<meta>`|Defines metadata about an HTML document| |[here](examples/metadata.html)||
@@ -57,7 +57,7 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<figcaption>`|Defines a caption for a `<figure>` element|block|[here](examples/figcaption.html)|[x](tags/figcaption.md)|
 |`<iframe>`|Defines an inline frame|inline|[here](examples/iframe.html)|[x](tags/iframe.md)|
 |`<audio>`|Defines embedded sound content|inline|[here](examples/audio.html)|[x](tags/audio.md)|
-|`<video>`|Defines embedded video content|inline|[here](examples/video.html)|[x](tags/video.md)|
+|`<video>`|Defines embedded video content|block|[here](examples/video.html)|[x](tags/video.md)|
 |`<u>`|Defines some text that is unarticulated and styled differently from normal text|inline|[here](examples/u.html)|[x](tags/u.md)|
 |`<table>`|Defines a table|block|[here](examples/table.html)|[x](tags/table.md)|
 |`<th>`|Defines a header cell in a table||[here](examples/table.html)|[x](tags/th.md)|
@@ -66,3 +66,4 @@ HTML tags are represented by a start and an end tag. The HTML commands are place
 |`<pre>`|Defines preformatted text|block|[here](examples/pre.html)|[x](tags/pre.md)|
 |`<code>`|Defines a piece of computer code|inline|[here](examples/code.html)|[x](tags/code.md)|
 |`<style>`|Defines style information for a document||[here](examples/style.html)|[x](tags/style.md)|
+|`<link>`|Defines the relationship between a document and an external resource||[here](examples/link.html)|[x](tags/link.md)|
